@@ -1,5 +1,9 @@
 function Results() {
-	return <h1>Résultats</h1>;
+	return (
+		<div>
+			<h1>Résultats</h1>
+		</div>
+	);
 }
 
 export default Results;
